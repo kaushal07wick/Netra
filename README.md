@@ -31,11 +31,16 @@ This repository provides an Information Stream solution for self-driving cars, s
 
 4. **Inference**: Run the trained model on live video streams or pre-recorded videos to detect and recognize traffic signs.
 
+### The confusion matrix after the training.
+
+![cm](cm.png)
 
 ## Usage
 
 There is a Jupyter Notebook present, kindly use that for the experimentation.
 [Roboflow](https://public.roboflow.com/) account is need to be set for using the datasets for training.
+
+![image](zebr.jpg)
 
 ## License
 
